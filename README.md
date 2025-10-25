@@ -1,4 +1,5 @@
-# Spindle — A Local AI-Powered Network Crawling Assistant
+# Spindle
+# Local AI-Powered Network Crawling Assistant
 
 Spindle is a desktop assistant that performs network discovery and answers natural-language queries about devices on specified subnets. It's designed for local demos and offline workflows, everything runs on your machine.
 Built with: LLaMA (optional, via llama-cpp), Flask, nmap, Tkinter, and SQLite.

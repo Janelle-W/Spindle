@@ -1,8 +1,7 @@
 # Spindle  
 ## Local AI-Powered Network Crawling Assistant
 
-**Spindle** is a lightweight desktop assistant that performs local network discovery and answers natural-language queries about connected devices.  
-It’s designed for **offline use**, with all components running locally and no cloud dependencies.  
+**Spindle** is a lightweight desktop assistant that performs local network discovery and answers natural-language queries about connected devices. It’s designed for **offline use**, with all components running locally and no cloud dependencies.  
 
 Built with **Python**, **Flask**, **nmap**, **Tkinter**, **SQLite**, and optional **LLaMA integration (via llama-cpp)** for natural-language responses.
 

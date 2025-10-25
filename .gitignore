@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts
+/dist/
+/build/
+/*.spec
+
+# Local database and model files - do NOT commit
+scan_history.db
+*.gguf
+*.bin
+*.dylib
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/

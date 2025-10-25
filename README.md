@@ -1,6 +1,6 @@
 # Spindle — A Local AI-Powered Network Crawling Assistant
 
-Spindle is a desktop assistant that performs network discovery and answers natural-language queries about devices on specified subnets. It's designed for local demos and offline workflows — everything runs on your machine.
+Spindle is a desktop assistant that performs network discovery and answers natural-language queries about devices on specified subnets. It's designed for local demos and offline workflows, everything runs on your machine.
 Built with: LLaMA (optional, via llama-cpp), Flask, nmap, Tkinter, and SQLite.
 
 ## Why Spindle?
@@ -8,7 +8,7 @@ Built with: LLaMA (optional, via llama-cpp), Flask, nmap, Tkinter, and SQLite.
 - Conversational interface: ask for counts, lists, and host details in plain language.
 - Lightweight persistence: scan results are stored in an on-disk SQLite database for later review.
 ## Security & privacy
-- All components run locally — no data is sent to external services by default.
+- All components run locally, no data is sent to external services by default.
 - Scans are limited to subnets you explicitly configure.
 - Scan history is stored locally in a SQLite file.
 ## How it works
